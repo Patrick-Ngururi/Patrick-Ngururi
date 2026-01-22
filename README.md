@@ -8,9 +8,11 @@
 
 - 🤝 I’m looking for help with Formal verification tools and fuzzing for smart contracts
 
+<!--
 - 💞️ I’m looking to collaborate on solving problems as a smart contract engineer and auditor
 
 - 📫 Reach me via email: patrickngururi21@gmail.com
+-->
 
 <!--
 **Patrick-Ngururi/Patrick-Ngururi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
