@@ -1,6 +1,4 @@
 ## Hi there 👋. I am Patrick Ngururi.
-
-- 👀 My interest is on Blockchain and Web3
   
 - 🌱 I’m currently learning Smart Contract Security and Development
 
